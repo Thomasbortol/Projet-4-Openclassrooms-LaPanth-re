@@ -766,9 +766,7 @@ h4 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
-    background-color: #364577;
-}
+
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
@@ -780,7 +778,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #0F0F0F!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -807,6 +805,10 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+}
+
+.bgc-dark-slate-blue {
+    background-color: #364577;
 }
 
 .bg-dots-bg {
@@ -1047,6 +1049,6 @@ h4 {
 }
 
 #citation span{
-    color: coral;
+    color: #9D2B01;
 }
 
