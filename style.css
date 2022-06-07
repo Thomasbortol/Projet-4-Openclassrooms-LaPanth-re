@@ -516,14 +516,15 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 1;
     z-index: 500;
     transition: all .3s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.scrollToTop span {
-    margin-top: 6px;
-}
+
 
 .showScrollTop {
     font-size: 14px;
